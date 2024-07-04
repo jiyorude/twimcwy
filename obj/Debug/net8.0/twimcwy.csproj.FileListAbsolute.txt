@@ -1,0 +1,15 @@
+/Users/arcticlime/Documents/Code/twimcwy/bin/Debug/net8.0/twimcwy
+/Users/arcticlime/Documents/Code/twimcwy/bin/Debug/net8.0/twimcwy.deps.json
+/Users/arcticlime/Documents/Code/twimcwy/bin/Debug/net8.0/twimcwy.runtimeconfig.json
+/Users/arcticlime/Documents/Code/twimcwy/bin/Debug/net8.0/twimcwy.dll
+/Users/arcticlime/Documents/Code/twimcwy/bin/Debug/net8.0/twimcwy.pdb
+/Users/arcticlime/Documents/Code/twimcwy/obj/Debug/net8.0/twimcwy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arcticlime/Documents/Code/twimcwy/obj/Debug/net8.0/twimcwy.AssemblyInfoInputs.cache
+/Users/arcticlime/Documents/Code/twimcwy/obj/Debug/net8.0/twimcwy.AssemblyInfo.cs
+/Users/arcticlime/Documents/Code/twimcwy/obj/Debug/net8.0/twimcwy.csproj.CoreCompileInputs.cache
+/Users/arcticlime/Documents/Code/twimcwy/obj/Debug/net8.0/twimcwy.sourcelink.json
+/Users/arcticlime/Documents/Code/twimcwy/obj/Debug/net8.0/twimcwy.dll
+/Users/arcticlime/Documents/Code/twimcwy/obj/Debug/net8.0/refint/twimcwy.dll
+/Users/arcticlime/Documents/Code/twimcwy/obj/Debug/net8.0/twimcwy.pdb
+/Users/arcticlime/Documents/Code/twimcwy/obj/Debug/net8.0/twimcwy.genruntimeconfig.cache
+/Users/arcticlime/Documents/Code/twimcwy/obj/Debug/net8.0/ref/twimcwy.dll
