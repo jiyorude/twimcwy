@@ -14,5 +14,11 @@ namespace twimcwy.Utils
             }
             Console.WriteLine();
         }
+
+        public static void wait(int delay = 1000)
+        {
+            Thread.Sleep(delay);
+            Console.WriteLine();
+        }
     }
 }
